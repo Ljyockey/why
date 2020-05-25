@@ -1,5 +1,5 @@
 let count = 0;
-const labels = ['Why are you upset?', 'Why do you feel that way?', 'Why is that important to you?'];
+const labels = ['Why are you upset?', 'Why does this seem true?', 'Why does this seem like a failure'];
 const elements = {};
 
 const onFormSubmit = (e) => {
