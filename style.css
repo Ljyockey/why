@@ -1,0 +1,11 @@
+label, textarea, input {
+    display: block;
+}
+
+#results > div:nth-child(even) {
+    background-color: #f6fac8;
+}
+
+#results > div:nth-child(odd) {
+    background-color: #c6f6f7;
+}
